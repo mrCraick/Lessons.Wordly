@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E5E6556A-EF68-4746-B2C1-12C594756D57}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{B9870A75-8B24-47A0-83EB-4E26DB4E8FCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lessons.Wordly.Infrastructure", "src\Lessons.Wordly.Infrastructure\Lessons.Wordly.Infrastructure.csproj", "{C6227DBB-6BD5-4218-8F27-7A7354A4D459}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lessons.Wordly.Domain", "src\Lessons.Wordly.Domain\Lessons.Wordly.Domain.csproj", "{A8A667E6-EC69-4FB1-BC29-1F0C91FF6744}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lessons.Wordly.Infrastructure.Tests", "tests\Lessons.Wordly.Infrastructure.Tests\Lessons.Wordly.Infrastructure.Tests.csproj", "{3769E0B6-7507-4B37-AD8D-7331317C4851}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lessons.Wordly.Application", "src\Lessons.Wordly.Application\Lessons.Wordly.Application.csproj", "{1336D305-21B2-431F-AEC8-F39345C243BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C6227DBB-6BD5-4218-8F27-7A7354A4D459} = {E5E6556A-EF68-4746-B2C1-12C594756D57}
+		{A8A667E6-EC69-4FB1-BC29-1F0C91FF6744} = {E5E6556A-EF68-4746-B2C1-12C594756D57}
+		{3769E0B6-7507-4B37-AD8D-7331317C4851} = {B9870A75-8B24-47A0-83EB-4E26DB4E8FCD}
+		{1336D305-21B2-431F-AEC8-F39345C243BF} = {E5E6556A-EF68-4746-B2C1-12C594756D57}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6227DBB-6BD5-4218-8F27-7A7354A4D459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6227DBB-6BD5-4218-8F27-7A7354A4D459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6227DBB-6BD5-4218-8F27-7A7354A4D459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6227DBB-6BD5-4218-8F27-7A7354A4D459}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8A667E6-EC69-4FB1-BC29-1F0C91FF6744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8A667E6-EC69-4FB1-BC29-1F0C91FF6744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8A667E6-EC69-4FB1-BC29-1F0C91FF6744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8A667E6-EC69-4FB1-BC29-1F0C91FF6744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3769E0B6-7507-4B37-AD8D-7331317C4851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3769E0B6-7507-4B37-AD8D-7331317C4851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3769E0B6-7507-4B37-AD8D-7331317C4851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3769E0B6-7507-4B37-AD8D-7331317C4851}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1336D305-21B2-431F-AEC8-F39345C243BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1336D305-21B2-431F-AEC8-F39345C243BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1336D305-21B2-431F-AEC8-F39345C243BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1336D305-21B2-431F-AEC8-F39345C243BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

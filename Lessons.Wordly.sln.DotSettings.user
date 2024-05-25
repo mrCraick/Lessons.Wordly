@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6f954633_002De2b1_002D47aa_002Db85e_002D363eab07a65b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetConnectionString_ShoudCreatedb #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::3769E0B6-7507-4B37-AD8D-7331317C4851::net8.0::Lessons.Wordly.Infrastructure.Tests.ConnectionStringProviderTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3769E0B6-7507-4B37-AD8D-7331317C4851::net8.0::Lessons.Wordly.Infrastructure.Tests.LessonWordlyContextTests.AR&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d00385af_002Dd48c_002D471c_002D83b1_002D2725fac06ac4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetConnectionString_ShoudCreatedb" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::3769E0B6-7507-4B37-AD8D-7331317C4851::net8.0::Lessons.Wordly.Infrastructure.Tests.ConnectionStringProviderTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
